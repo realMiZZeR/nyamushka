@@ -1,5 +1,10 @@
 /* helpers */
+@import './general.css';
 @import './reset.css';
 
 /* fonts */
 @import './fonts/exo2.css';
+
+/* other pages and components */
+@import './pages/home.css';
+@import './components/stuff.css';
